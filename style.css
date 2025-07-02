@@ -1,3 +1,11 @@
 h1{
     color: red;
+    font-style: italic;
+    font-size: 100px;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/29/13/03/internet-3116062_1280.jpg);
+    background-size: cover;
 }
